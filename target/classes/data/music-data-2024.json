@@ -1,0 +1,320 @@
+{
+  "artists": [
+    {
+      "artistId": 1,
+      "firstname": "Billie",
+      "lastname": "Eilish",
+      "description": "US-amerikanische Singer-Songwriterin, bekannt für ihren flüsternden Gesangsstil.",
+      "imageUrl": "https://example.com/images/billie.jpg"
+    },
+    {
+      "artistId": 2,
+      "firstname": "Taylor",
+      "lastname": "Swift",
+      "description": "Weltweiter Pop-Superstar und Songwriting-Genie.",
+      "imageUrl": "https://example.com/images/taylor.jpg"
+    },
+    {
+      "artistId": 3,
+      "firstname": "",
+      "lastname": "Coldplay",
+      "description": "Britische Pop-Rock-Band, bekannt für farbenfrohe Liveshows.",
+      "imageUrl": "https://example.com/images/coldplay.jpg"
+    },
+    {
+      "artistId": 4,
+      "firstname": "Ed",
+      "lastname": "Sheeran",
+      "description": "Britischer Singer-Songwriter, der Stadien alleine mit seiner Loop-Station füllt.",
+      "imageUrl": "https://example.com/images/ed.jpg"
+    },
+    {
+      "artistId": 5,
+      "firstname": "",
+      "lastname": "AC/DC",
+      "description": "Legendäre Hard-Rock-Band aus Australien.",
+      "imageUrl": "https://example.com/images/acdc.jpg"
+    },
+    {
+      "artistId": 6,
+      "firstname": "",
+      "lastname": "RAF Camora",
+      "description": "Österreichischer Dancehall- und Hip-Hop-Musiker.",
+      "imageUrl": "https://example.com/images/raf.jpg"
+    },
+    {
+      "artistId": 7,
+      "firstname": "",
+      "lastname": "Bilderbuch",
+      "description": "Österreichische Band, bekannt für ihren experimentellen Pop-Stil.",
+      "imageUrl": "https://example.com/images/bilderbuch.jpg"
+    },
+    {
+      "artistId": 8,
+      "firstname": "",
+      "lastname": "Wanda",
+      "description": "Österreichische Rockband mit Wiener Schmäh.",
+      "imageUrl": "https://example.com/images/wanda.jpg"
+    },
+    {
+      "artistId": 9,
+      "firstname": "",
+      "lastname": "Green Day",
+      "description": "US-amerikanische Punk-Rock-Band.",
+      "imageUrl": "https://example.com/images/greenday.jpg"
+    },
+    {
+      "artistId": 10,
+      "firstname": "",
+      "lastname": "Avenged Sevenfold",
+      "description": "US-amerikanische Metal-Band.",
+      "imageUrl": "https://example.com/images/a7x.jpg"
+    },
+    {
+      "artistId": 11,
+      "firstname": "",
+      "lastname": "Måneskin",
+      "description": "Italienische Rockband, Gewinner des ESC.",
+      "imageUrl": "https://example.com/images/maneskin.jpg"
+    },
+    {
+      "artistId": 12,
+      "firstname": "Armin",
+      "lastname": "van Buuren",
+      "description": "Niederländischer Trance-DJ und Produzent.",
+      "imageUrl": "https://example.com/images/armin.jpg"
+    },
+    {
+      "artistId": 13,
+      "firstname": "",
+      "lastname": "The Chainsmokers",
+      "description": "US-amerikanisches Future-Bass-Duo.",
+      "imageUrl": "https://example.com/images/chainsmokers.jpg"
+    },
+    {
+      "artistId": 14,
+      "firstname": "",
+      "lastname": "Scooter",
+      "description": "Deutsche Dance-Band, bekannt für 'Hyper Hyper'.",
+      "imageUrl": "https://example.com/images/scooter.jpg"
+    },
+    {
+      "artistId": 15,
+      "firstname": "Peter",
+      "lastname": "Fox",
+      "description": "Sänger der Band Seeed und erfolgreicher Solokünstler.",
+      "imageUrl": "https://example.com/images/peterfox.jpg"
+    },
+    {
+      "artistId": 16,
+      "firstname": "",
+      "lastname": "Cro",
+      "description": "Deutscher Rapper und Sänger mit Pandamaske.",
+      "imageUrl": "https://example.com/images/cro.jpg"
+    },
+    {
+      "artistId": 17,
+      "firstname": "",
+      "lastname": "The Offspring",
+      "description": "US-amerikanische Punk-Rock-Legenden.",
+      "imageUrl": "https://example.com/images/offspring.jpg"
+    },
+    {
+      "artistId": 18,
+      "firstname": "",
+      "lastname": "Bring Me The Horizon",
+      "description": "Britische Rockband, die Metalcore mit Pop verbindet.",
+      "imageUrl": "https://example.com/images/bmth.jpg"
+    },
+    {
+      "artistId": 19,
+      "firstname": "",
+      "lastname": "Parov Stelar",
+      "description": "Pionier des Electro-Swing aus Österreich.",
+      "imageUrl": "https://example.com/images/parov.jpg"
+    },
+    {
+      "artistId": 20,
+      "firstname": "",
+      "lastname": "Seiler und Speer",
+      "description": "Österreichisches Pop-Duo, bekannt für 'Ham kummst'.",
+      "imageUrl": "https://example.com/images/seiler.jpg"
+    }
+  ],
+  "events": [
+    {
+      "eventId": 101,
+      "title": "The Eras Tour Vienna - Day 1",
+      "description": "Der erste Tag der monumentalen Eras Tour im Ernst-Happel-Stadion. Ein riesiges Spektakel.",
+      "location": "Ernst-Happel-Stadion, Wien",
+      "begin": "2024-08-08T19:30:00",
+      "end": "2024-08-08T23:00:00",
+      "imageUrl": "https://example.com/events/eras1.jpg",
+      "artistIds": "2",
+      "ratings": [
+        { "ratingId": 1, "stars": 5, "comment": "Absolut unglaublich, beste Show meines Lebens!" },
+        { "ratingId": 2, "stars": 5, "comment": "Taylor war perfekt, aber die Schlange am Einlass war lang." },
+        { "ratingId": 3, "stars": 4, "comment": "Tolle Atmosphäre, aber sehr laut." }
+      ]
+    },
+    {
+      "eventId": 102,
+      "title": "Nova Rock 2024 - Thursday",
+      "description": "Der Auftakt des größten Rockfestivals Österreichs mit Green Day als Headliner.",
+      "location": "Pannonia Fields, Nickelsdorf",
+      "begin": "2024-06-13T13:00:00",
+      "end": "2024-06-14T01:30:00",
+      "imageUrl": "https://example.com/events/novarock1.jpg",
+      "artistIds": "9,10,17",
+      "ratings": [
+        { "ratingId": 4, "stars": 5, "comment": "Green Day haben die Hütte abgerissen!" },
+        { "ratingId": 5, "stars": 3, "comment": "Viel zu staubig, aber Musik war top." }
+      ]
+    },
+    {
+      "eventId": 103,
+      "title": "Nova Rock 2024 - Saturday",
+      "description": "Samstag beim Nova Rock mit einer Mischung aus Rock und ESC-Glamour.",
+      "location": "Pannonia Fields, Nickelsdorf",
+      "begin": "2024-06-15T13:30:00",
+      "end": "2024-06-16T02:00:00",
+      "imageUrl": "https://example.com/events/novarock3.jpg",
+      "artistIds": "11,18",
+      "ratings": [
+        { "ratingId": 6, "stars": 5, "comment": "Måneskin live ist eine andere Dimension." },
+        { "ratingId": 7, "stars": 4, "comment": "Gute Stimmung, teures Bier." },
+        { "ratingId": 8, "stars": 5, "comment": "BMTH waren der Wahnsinn." }
+      ]
+    },
+    {
+      "eventId": 104,
+      "title": "Electric Love Festival - Colorful Playground",
+      "description": "Das größte EDM Festival Österreichs am Salzburgring.",
+      "location": "Salzburgring, Plainfeld",
+      "begin": "2024-07-04T16:00:00",
+      "end": "2024-07-05T04:00:00",
+      "imageUrl": "https://example.com/events/elf24.jpg",
+      "artistIds": "12,13,14",
+      "ratings": [
+        { "ratingId": 9, "stars": 5, "comment": "Armin van Buuren = Legende." },
+        { "ratingId": 10, "stars": 1, "comment": "Wetter war furchtbar, nur Matsch." },
+        { "ratingId": 11, "stars": 5, "comment": "Hyper Hyper! Scooter live muss man gesehen haben." },
+        { "ratingId": 12, "stars": 4, "comment": "Super Lichtshow." }
+      ]
+    },
+    {
+      "eventId": 105,
+      "title": "Coldplay - Music of the Spheres",
+      "description": "Die bunteste Stadionshow der Welt kommt nach Wien.",
+      "location": "Ernst-Happel-Stadion, Wien",
+      "begin": "2024-08-21T19:00:00",
+      "end": "2024-08-21T22:45:00",
+      "imageUrl": "https://example.com/events/coldplay.jpg",
+      "artistIds": "3",
+      "ratings": [
+        { "ratingId": 13, "stars": 5, "comment": "Ein Traum voller Konfetti und Lichter." },
+        { "ratingId": 14, "stars": 5, "comment": "Magischer Abend." }
+      ]
+    },
+    {
+      "eventId": 106,
+      "title": "FM4 Frequency Festival - Day 1",
+      "description": "Start des Festivals in St. Pölten mit internationaler Starbesetzung.",
+      "location": "Green Park, St. Pölten",
+      "begin": "2024-08-14T14:00:00",
+      "end": "2024-08-14T23:59:00",
+      "imageUrl": "https://example.com/events/freq1.jpg",
+      "artistIds": "4,15,6",
+      "ratings": [
+        { "ratingId": 15, "stars": 4, "comment": "Ed Sheeran war super sympathisch." },
+        { "ratingId": 16, "stars": 3, "comment": "Peter Fox war gut, aber Soundprobleme." },
+        { "ratingId": 17, "stars": 5, "comment": "RAF Camora hat alles abgerissen, Wien-Vibe pur!" },
+        { "ratingId": 18, "stars": 2, "comment": "Zu voll, kein Platz zum Tanzen." }
+      ]
+    },
+    {
+      "eventId": 107,
+      "title": "FM4 Frequency Festival - Day 3",
+      "description": "Rap und Pop mischen sich am dritten Tag des Festivals.",
+      "location": "Green Park, St. Pölten",
+      "begin": "2024-08-16T14:00:00",
+      "end": "2024-08-17T01:00:00",
+      "imageUrl": "https://example.com/events/freq3.jpg",
+      "artistIds": "16,17,8",
+      "ratings": [
+        { "ratingId": 19, "stars": 4, "comment": "Cro war sehr entspannt." },
+        { "ratingId": 20, "stars": 5, "comment": "Wanda live ist immer ein Erlebnis! Amore!" }
+      ]
+    },
+    {
+      "eventId": 108,
+      "title": "AC/DC - Power Up Tour",
+      "description": "Die Rock-Giganten kehren für eine gewaltige Show nach Wien zurück.",
+      "location": "Ernst-Happel-Stadion, Wien",
+      "begin": "2024-06-23T19:30:00",
+      "end": "2024-06-23T22:30:00",
+      "imageUrl": "https://example.com/events/acdc.jpg",
+      "artistIds": "5",
+      "ratings": [
+        { "ratingId": 21, "stars": 5, "comment": "Angus Young ist ein Gott an der Gitarre." },
+        { "ratingId": 22, "stars": 5, "comment": "Laut, dreckig, genial. So muss Rock sein." },
+        { "ratingId": 23, "stars": 4, "comment": "Brian Johnsons Stimme hält noch!" }
+      ]
+    },
+    {
+      "eventId": 109,
+      "title": "Lido Sounds 2024 - Friday",
+      "description": "Das neue Open Air Highlight in Linz am Urfahranermarkt.",
+      "location": "Urfahranermarkt, Linz",
+      "begin": "2024-06-28T15:00:00",
+      "end": "2024-06-28T23:00:00",
+      "imageUrl": "https://example.com/events/lido.jpg",
+      "artistIds": "19,7",
+      "ratings": [
+        { "ratingId": 24, "stars": 4, "comment": "Parov Stelar mit Band war groovy." },
+        { "ratingId": 25, "stars": 5, "comment": "Bilderbuch haben Maschin gespielt, Tag gerettet." }
+      ]
+    },
+    {
+      "eventId": 110,
+      "title": "Seiler und Speer - Heimspiel",
+      "description": "Großes Open Air Konzert in der Wiener Krieau.",
+      "location": "Krieau, Wien",
+      "begin": "2024-07-20T18:00:00",
+      "end": "2024-07-20T22:00:00",
+      "imageUrl": "https://example.com/events/seiler.jpg",
+      "artistIds": "20,8",
+      "ratings": [
+        { "ratingId": 26, "stars": 5, "comment": "Herrlich leiwand." },
+        { "ratingId": 27, "stars": 3, "comment": "Sound war okay, aber Sicht schlecht." }
+      ]
+    },
+    {
+      "eventId": 111,
+      "title": "Billie Eilish - Hit Me Hard and Soft",
+      "description": "Exklusive Listening Session und kleines Konzert.",
+      "location": "Stadthalle, Wien",
+      "begin": "2024-05-30T20:00:00",
+      "end": "2024-05-30T22:00:00",
+      "imageUrl": "https://example.com/events/billie.jpg",
+      "artistIds": "1",
+      "ratings": [
+        { "ratingId": 28, "stars": 5, "comment": "Gänsehaut pur bei ihrer Stimme." }
+      ]
+    },
+    {
+      "eventId": 112,
+      "title": "Austropop Nacht 2024",
+      "description": "Eine Nacht im Zeichen der österreichischen Musikgeschichte.",
+      "location": "Burg Clam, Klam",
+      "begin": "2024-08-02T17:00:00",
+      "end": "2024-08-02T23:30:00",
+      "imageUrl": "https://example.com/events/clam.jpg",
+      "artistIds": "20,8,7",
+      "ratings": [
+        { "ratingId": 29, "stars": 5, "comment": "Die Location auf der Burg ist unschlagbar." },
+        { "ratingId": 30, "stars": 5, "comment": "Wanda und Seiler & Speer an einem Abend - top!" }
+      ]
+    }
+  ]
+}

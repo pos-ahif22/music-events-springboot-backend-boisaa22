@@ -1,0 +1,7 @@
+package at.kaindorf.htl.event.repository;
+
+import at.kaindorf.htl.event.entity.Event;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface EventRepository {
+}

@@ -1,0 +1,8 @@
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/App.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/config/DataSeeder.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/entity/Artist.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/entity/Event.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/entity/Rating.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/repository/ArtistRepository.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/repository/EventRepository.java
+/home/fa/projects/music-events/src/main/java/at/kaindorf/htl/event/repository/RatingRepository.java
